@@ -12,3 +12,5 @@ sub.domain.tld {
 }
 
 ```
+## Screenshot
+![screenshot](extras/screenshot.png)
