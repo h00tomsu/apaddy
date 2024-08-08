@@ -13,4 +13,4 @@ sub.domain.tld {
 
 ```
 ## Screenshot
-![screenshot](extras/screenshot.png)
+![screenshot](.github/screenshot.png)
