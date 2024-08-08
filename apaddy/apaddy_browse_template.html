@@ -17,7 +17,6 @@
   {{- else if .HasExt ".conf" ".sh" ".shar" ".csh" ".ksh" ".tcl"}}script.gif
   {{- else if .HasExt ".tex"}}tex.gif
   {{- else if .HasExt "core"}}bomb.gif
-  {{/* cant (yet) lookup filetypes so just add som extenstions for video, audio and images */}}
   {{- else if .HasExt ".mp4" ".avi" ".mkv"}}movie.gif
   {{- else if .HasExt ".flac" ".mp3"}}sound2.gif
   {{- else if .HasExt ".jpg" ".tbn" ".png" ".gif"}}image2.gif
