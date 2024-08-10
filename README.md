@@ -14,3 +14,5 @@ sub.domain.tld {
 ```
 ## Screenshot
 ![screenshot](.github/screenshot.png)
+## Prefer Caddys default look and feel?
+Have a look at [CaddyBrowseForKodi](https://github.com/h00tomsu/CaddyBrowseForKodi). A modified version of caddys default browse template that works with Kodi.
